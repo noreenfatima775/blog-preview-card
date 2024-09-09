@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://github.com/noreenfatima775/blog-preview-card.git
+- Live Site URL: https://noreenfatima775.github.io/blog-preview-card/
 ## My process
 
 ### Built with
